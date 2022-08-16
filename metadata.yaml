@@ -1,0 +1,24 @@
+_repo: Metsan-satuja-ja-muita-runoja_68660
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pohjanpää, Lauri
+    gutenberg_agent_id: '54889'
+    url: http://www.gutenberg.org/2009/agents/54889
+description: ''
+gutenberg_issued: '2022-07-31'
+identifiers:
+  gutenberg: '68660'
+language: fi
+pgterms:marc905: 20220727060605pohjanp
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: Finland :WSOY,1924,reprint 1930.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Metsän satuja ja muita runoja
+url: http://www.gutenberg.org/ebooks/68660
