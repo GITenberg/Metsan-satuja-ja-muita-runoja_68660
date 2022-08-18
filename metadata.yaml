@@ -1,11 +1,16 @@
 _repo: Metsan-satuja-ja-muita-runoja_68660
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pohjanpää, Lauri
     gutenberg_agent_id: '54889'
     url: http://www.gutenberg.org/2009/agents/54889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68660#Metsan-satuja-ja-muita-runoja
 gutenberg_issued: '2022-07-31'
 identifiers:
   gutenberg: '68660'
